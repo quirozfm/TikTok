@@ -1,3 +1,3 @@
 # TikTok
 
-## In this project will showcase steps for deriving data driven insights for Tik Tok. It includes statistical analysis, Python, regression models, and machine learning.
+## In this project we will be deriving data driven insights for Tik Tok using statistical analysis, Python, regression models, and machine learning.
