@@ -1,5 +1,4 @@
-# TikTok
-
+#### ![](https://github.com/quirozfm/TikTok/blob/main/Tiktok.png)
 ## This repository houses the files required for an extensive analysis of TikTok's data within a claims classification project. It covers understanding the problem context, executing EDA, developing a statistical model, and communicating the results to stakeholders.
 
 ## Prerequisites
