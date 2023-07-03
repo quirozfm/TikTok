@@ -12,7 +12,7 @@
 3. [Hypothesis Testing](./Hypothesis%20Testing.ipynb)
     - In the Hypothesis Testing notebook, we formulate and test statistical hypotheses to uncover significant relationships within the data. This helps in confirming or debunking assumptions we might have about the dataset.
   
-4. [Classifying Using Machine Learning-1](./Classifying%20Using%20Machine%20Learning-1.ipynb)
+4. [Classifying Using Machine Learning](./Classifying%20Using%20Machine%20Learning-1.ipynb)
     - This Jupyter Notebook introduces the use of machine learning for classification tasks. It provides a step-by-step walkthrough of applying machine learning algorithms, tuning their parameters, and evaluating their performance.
   
 5. [Regression Analysis](./Regression%20Analysis.ipynb)
