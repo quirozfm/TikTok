@@ -48,7 +48,7 @@
 ```
 ## Skills Applied
 ```
-I- Data understanding
+- Data understanding
 - Exploratory Data Analysis
 - Data visualization
 - Model selection and construction
